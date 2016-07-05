@@ -267,7 +267,7 @@ ErrorCode MatchDocument(DocID doc_id, const char* doc_str)
 }
 void ParseDoc(Document &doc)
 {
-        //parse the new doc
+        //parse the new document
         
         char txt[MAX_WORD_LENGTH+1];
         int i;
